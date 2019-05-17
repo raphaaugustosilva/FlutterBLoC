@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri May 17 14:28:35 BRT 2019
+#Fri May 17 15:54:55 BRT 2019
 4.path=flutter_assets/kernel_blob.bin
 8.set=NATIVE_RESOURCE
 6.path=flutter_assets/isolate_snapshot_data

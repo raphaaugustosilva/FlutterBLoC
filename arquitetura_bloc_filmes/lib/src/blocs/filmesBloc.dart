@@ -1,6 +1,6 @@
 import '../resources/repository.dart';
 import 'package:rxdart/rxdart.dart';
-import '../models/item_model.dart';
+import '../models/itemModel.dart';
 
 class FilmesBloc {
   final _repository = Repository();

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'view/listagemFilmes.dart';
+import 'view/listagemFilmesView.dart';
 
 class App extends StatelessWidget {
   @override
@@ -7,7 +7,7 @@ class App extends StatelessWidget {
     return MaterialApp(
         theme: ThemeData.dark(),
         home: Scaffold(
-          body: ListagemFilmes(),
+          body: ListagemFilmesView(),
         ),
       );
   }
