@@ -1,0 +1,4 @@
+#Tue May 14 16:35:36 BRT 2019
+base.0=/Users/raphael.silva/Projetos/Estudo/FlutterBLoC/arquitetura_bloc/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
